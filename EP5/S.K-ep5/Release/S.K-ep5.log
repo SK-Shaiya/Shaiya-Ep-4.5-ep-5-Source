@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  3rdbar.cpp
+  Server.cpp
+  dllmain.cpp
+  elemental.cpp
+  fps.cpp
+  mini_icon.cpp
+  statpoints.cpp
+     C:\Users\baser\OneDrive\Masaüstü\EP5\Release\S.K-ep5.lib kitaplığı ve C:\Users\baser\OneDrive\Masaüstü\EP5\Release\S.K-ep5.exp nesnesi oluşturuluyor
+  Kod üretiliyor
+  0 of 159 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  S.K-ep5.vcxproj -> C:\Users\baser\OneDrive\Masaüstü\EP5\Release\S.K-ep5.dll
